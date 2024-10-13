@@ -1,2 +1,3 @@
-# Exercícios python no github
-exercícios para desenvolver habilidades de programação
+# Exercícios python no Github
+Isto é um exemplo de como utilizar modularização nos projetos python
+
